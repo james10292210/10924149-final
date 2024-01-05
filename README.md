@@ -147,7 +147,9 @@
 ![image](https://github.com/james10292210/10924149-final/assets/149235583/640e579f-b8fc-4dc5-8d6b-4c612a70a381)
 
 根據訂餐者訂餐的時序圖可以創建如下協作圖：
+
 ![image](https://github.com/james10292210/10924149-final/assets/149235583/602f079f-ba09-4184-aaeb-1951484f7fef)
+
 ### 5.1 .2 商家管理店鋪 
 
 （ 1） 商家申請一個網上虛擬店鋪；
