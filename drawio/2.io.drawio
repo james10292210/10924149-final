@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2024-01-07T13:22:00.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fSieLewuRc86Vq2Kk_fl" version="22.1.17" type="device">
+  <diagram name="第 1 页" id="hO22F0mAzdbBo_oECUuP">
+    <mxGraphModel dx="1034" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;訂餐人&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="kQA04IC0CBHxEPcrbsLH-1" target="kQA04IC0CBHxEPcrbsLH-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="-250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQA04IC0CBHxEPcrbsLH-1" target="kQA04IC0CBHxEPcrbsLH-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262.42640687119297" y="-278.2842712474619" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="kQA04IC0CBHxEPcrbsLH-1" target="kQA04IC0CBHxEPcrbsLH-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="262.42640687119297" y="-221.7157287525381" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;登入系統&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;餐飲&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQA04IC0CBHxEPcrbsLH-6" target="kQA04IC0CBHxEPcrbsLH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQA04IC0CBHxEPcrbsLH-6" target="kQA04IC0CBHxEPcrbsLH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kQA04IC0CBHxEPcrbsLH-6" target="kQA04IC0CBHxEPcrbsLH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;訂餐&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;評價&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;下單&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;店鋪&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;付款&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kQA04IC0CBHxEPcrbsLH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kQA04IC0CBHxEPcrbsLH-6" target="kQA04IC0CBHxEPcrbsLH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
